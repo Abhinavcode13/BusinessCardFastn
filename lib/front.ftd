@@ -138,7 +138,7 @@ margin-bottom.px: 20
 
 
 -- ftd.background-image logo-bg:
-src: $assets.files.assets.logo-bg.svg
+src: https://images.pexels.com/photos/1532704/pexels-photo-1532704.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 size: contain
 position: right
 repeat: no-repeat
